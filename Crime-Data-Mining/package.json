@@ -1,0 +1,15 @@
+{
+  "name": "crime-data-mining",
+  "version": "1.0.0",
+  "description": "- Algorithms文件夹",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/Leslie-Chung/data-mining-backend.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

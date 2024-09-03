@@ -1,0 +1,169 @@
+[
+  
+  {
+    "did": 0,
+    "ori_name": "sj_hotel_lgyxt_lkxx",
+    "show_name": "公安_治安管理_旅馆业系统_旅客信息",
+    "category": "智慧宾馆",
+    "field": [
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$tel",
+        "show_field": "电话",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$dyh",
+        "show_field": "单元号",
+        "type": null,
+        "checked": "true"
+      },
+      
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$lkbm",
+        "show_field": "旅客编码",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$xm",
+        "show_field": "姓名",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$xb",
+        "show_field": "姓别",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$mz",
+        "show_field": "民族",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$cs",
+        "show_field": "出生日期",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$zjlx",
+        "show_field": "证件类型",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$zh",
+        "show_field": "证件号码",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$ssx",
+        "show_field": "所属县区",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$xz",
+        "show_field": "详细地址",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$rzsj",
+        "show_field": "入住时间",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$rzfh",
+        "show_field": "入住房号",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$tfsj",
+        "show_field": "退房时间",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$cssj",
+        "show_field": "产生时间",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$xmpy",
+        "show_field": "姓名拼音",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$dwbh",
+        "show_field": "单位编号",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$jssj",
+        "show_field": "结束时间",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$hjk_gxsj",
+        "show_field": "汇集库更新时间",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$hjk_rksj",
+        "show_field": "汇集库入库时间",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$jl_sjlysd",
+        "show_field": "数据来源属地",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$jl_sjlyxt",
+        "show_field": "数据来源系统",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$jl_ybzj",
+        "show_field": "源表主键",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$jl_ywfl",
+        "show_field": "业务分类",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$jl_zxsj",
+        "show_field": "执行时间",
+        "type": null,
+        "checked": "true"
+      },
+      {
+        "ori_field": "sj_hotel_lgyxt_lkxx$jl_zxzt",
+        "show_field": "执行状态",
+        "type": null,
+        "checked": "true"
+      }
+    ]
+  }
+ 
+]
